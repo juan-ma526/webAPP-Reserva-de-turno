@@ -24,5 +24,3 @@ Estas reservas deben estar visibles para el comercio en un panel gráfico Adicio
   MongoDB
   MySQL
   (Mongoose o PostgreSQL)
-- Gráficos:
-  D3.js
